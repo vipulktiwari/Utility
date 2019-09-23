@@ -20,3 +20,4 @@ brew cask install visual-studio-code
 # update vscode settings
 # install vscode extensions
 brew cask install docker
+brew install go
