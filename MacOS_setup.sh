@@ -6,6 +6,8 @@ brew install bash # latest version of bash
 # set brew bash as default shell
 brew install git
 # update bash_profile
+#for git util
+brew install vcprompt
 brew cask install spectacle
 brew cask install alfred
 # set CMD+space to launch alfred
