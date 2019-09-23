@@ -19,3 +19,4 @@ npm install -g lite-server eslint
 brew cask install visual-studio-code
 # update vscode settings
 # install vscode extensions
+brew cask install docker
